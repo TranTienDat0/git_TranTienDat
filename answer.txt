@@ -1,0 +1,5 @@
+Yêu cầu 8:
+  --thực hiện lệnh: git branch để tạo nhánh feature-dat-rebase
+  --gõ lệnh git push -u origin feature-dat-rebase
+Yêu cầu 14:
+  -- Thực hiện lệnh: git merge feature-dat để gôpj nhánh
