@@ -40,17 +40,3 @@ if ($cau22 == true) {
 }
 fclose($myfile2);
 ?>
-
-<!-- <?php
-
-      function containsBook($str)
-      {
-        return strpos($str, 'book') !== false;
-      }
-
-      $containsBook = containsBook('This string contains the word book');
-      echo $containsBook; // In ra giá trị true
-
-      $containsBook = containsBook('This string does not contain the word book');
-      echo $containsBook; // In ra giá trị false
-      ?> -->
